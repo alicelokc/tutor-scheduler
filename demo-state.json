@@ -1,69 +1,68 @@
 {
   "students": [
     {
-      "id": "06e5bfe2-f436-44b7-a115-b255504e86f5",
+      "id": "baf44939-4df7-41fb-b147-3558b992e0be",
       "name": "學生1",
-      "notes": "demo · 假電話 61234567（唔係真號碼）",
-      "phone": "61234567",
+      "notes": "demo · 用 WhatsApp 名「學生1」揀聯絡人",
       "availableSlots": [
         {
-          "id": "ead995d1-4693-4177-b674-ceff3a64a870",
+          "id": "c69cb8b8-2a1d-4226-aa06-92d564350816",
           "day": "二",
           "date": "2026-11-03",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "276eee03-1cc9-482c-b927-fae045a33e83",
+          "id": "db37fad3-e343-4fec-a056-1a497ff81a6a",
           "day": "四",
           "date": "2026-11-05",
           "start": "15:00",
           "end": "19:00"
         },
         {
-          "id": "06a48c29-b356-4d8f-844f-7b171de4d25c",
+          "id": "b7608327-1e06-4642-8024-e958679407e1",
           "day": "五",
           "date": "2026-11-06",
           "start": "16:00",
           "end": "20:00"
         },
         {
-          "id": "f12a5f74-e5eb-464a-936d-0302700f836f",
+          "id": "11b966bf-bbbd-4c22-999b-fca7a1c27684",
           "day": "二",
           "date": "2026-11-10",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "d687a7e9-80c0-4d53-bf36-233a18731f68",
+          "id": "04b0a834-6e7b-43ff-8184-62dbdd29535b",
           "day": "四",
           "date": "2026-11-12",
           "start": "17:00",
           "end": "20:00"
         },
         {
-          "id": "48b64064-3e67-44f7-9f25-8558013cc389",
+          "id": "af368be9-047f-483c-bb2c-0ff8f3cb9ce6",
           "day": "二",
           "date": "2026-11-17",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "613be22b-235d-4928-ba3b-1e64d5ce4d0c",
+          "id": "1794fa6b-c13f-4fa8-b3a2-68fe67e57fb5",
           "day": "四",
           "date": "2026-11-19",
           "start": "14:00",
           "end": "18:00"
         },
         {
-          "id": "feaf816d-2cb0-4e5b-a0ac-a1aa7b406dc1",
+          "id": "a0111322-969f-40b1-bbd7-9cd5f9e62ac3",
           "day": "二",
           "date": "2026-11-24",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "b8dac4d4-f74e-47e8-bb2b-7ee7356fee4d",
+          "id": "51c870af-fa69-40b3-81eb-d97d7e39dca7",
           "day": "四",
           "date": "2026-11-26",
           "start": "17:00",
@@ -73,72 +72,71 @@
       "priority": 8,
       "sessionType": "1on1",
       "ocrRawText": "3/11 6-9pm\n5/11 3-7pm\n6/11 4-8pm\n10/11 6-9pm\n12/11 5-8pm\n17/11 6-9pm\n19/11 2-6pm\n24/11 6-9pm\n26/11 5-8pm",
-      "createdAt": "2026-10-14T13:36:22.861Z"
+      "createdAt": "2026-10-14T22:49:29.274Z"
     },
     {
-      "id": "c9053239-e27e-4da0-87a8-f825d0d91852",
+      "id": "705dbcd9-7f04-4bb6-bd99-3314f47ff76f",
       "name": "學生2",
-      "notes": "demo · 假電話 62345678（唔係真號碼）",
-      "phone": "62345678",
+      "notes": "demo · 用 WhatsApp 名「學生2」揀聯絡人",
       "availableSlots": [
         {
-          "id": "4d2f312c-c1cf-4c83-8342-6ab6872fc8a8",
+          "id": "ccb57333-6390-451f-8e30-8811fc514588",
           "day": "二",
           "date": "2026-11-03",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "525c0304-43d5-4a6f-8ef7-0dcb67ead24f",
+          "id": "7abdf608-cd66-4fa9-931a-66061c0edc8c",
           "day": "三",
           "date": "2026-11-04",
           "start": "15:00",
           "end": "19:00"
         },
         {
-          "id": "98b47958-5d48-4168-80cc-22d5e3df917d",
+          "id": "82bdd910-053a-4b1d-94d2-9390bfc33e13",
           "day": "五",
           "date": "2026-11-06",
           "start": "16:00",
           "end": "20:00"
         },
         {
-          "id": "2d5d53aa-b5e7-4f7f-9c72-1b6eab45de0c",
+          "id": "512233ef-7648-4589-b456-47993659f16d",
           "day": "二",
           "date": "2026-11-10",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "25296b60-eb43-4001-840e-926dcae14895",
+          "id": "daeaa282-94e5-4ce7-b744-1016d51c965b",
           "day": "五",
           "date": "2026-11-13",
           "start": "15:30",
           "end": "19:30"
         },
         {
-          "id": "d5074b05-2f95-4fc0-8ed7-0f47f1a8722c",
+          "id": "7d00be9d-c19c-4876-b9f6-293d93ac0167",
           "day": "二",
           "date": "2026-11-17",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "7a9807c6-0c4c-4a72-a347-ec114a2e9fa1",
+          "id": "de89e52a-115d-4c5e-a82e-2a7af651429b",
           "day": "五",
           "date": "2026-11-20",
           "start": "16:00",
           "end": "20:00"
         },
         {
-          "id": "9f693340-0e17-4c2a-a1db-96d7ebaa0c0f",
+          "id": "508e62bc-0306-44df-81d3-7667894da6be",
           "day": "二",
           "date": "2026-11-24",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "45316558-435d-4e2e-aa71-acfedf6d9bf7",
+          "id": "45ca7f8a-939c-4a8d-b3bc-d9ef70e247c0",
           "day": "四",
           "date": "2026-11-26",
           "start": "17:00",
@@ -148,72 +146,71 @@
       "priority": 5,
       "sessionType": "1on1",
       "ocrRawText": "3/11 6-9pm\n4/11 3-7pm\n6/11 4-8pm\n10/11 6-9pm\n13/11 3:30-7:30pm\n17/11 6-9pm\n20/11 4-8pm\n24/11 6-9pm\n26/11 5-8pm",
-      "createdAt": "2026-10-14T13:36:22.861Z"
+      "createdAt": "2026-10-14T22:49:29.274Z"
     },
     {
-      "id": "5e501caa-c56a-4a9c-8f09-7b13232b61f4",
+      "id": "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3",
       "name": "學生3",
-      "notes": "demo · 假電話 63456789（唔係真號碼）",
-      "phone": "63456789",
+      "notes": "demo · 用 WhatsApp 名「學生3」揀聯絡人",
       "availableSlots": [
         {
-          "id": "8cd39494-e470-4d68-934e-60927f4be6f8",
+          "id": "3c3937cb-c113-469d-8c33-9ab553fb5684",
           "day": "二",
           "date": "2026-11-03",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "d442cc62-aa7e-4022-a40a-f45befcff208",
+          "id": "6cdfb21b-e911-4f26-9e49-c9980f33a02d",
           "day": "六",
           "date": "2026-11-07",
           "start": "14:00",
           "end": "18:00"
         },
         {
-          "id": "a51ac26c-701c-47fd-961c-bb7432c4a72b",
+          "id": "4c0b0e42-ed3f-4485-89a6-f2abc2659f57",
           "day": "二",
           "date": "2026-11-10",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "c484f80d-8fdf-4de3-9222-9860befa0ccd",
+          "id": "10f12e89-5a34-4b8d-aea0-84c3328312b6",
           "day": "四",
           "date": "2026-11-12",
           "start": "17:00",
           "end": "20:00"
         },
         {
-          "id": "cdc16651-ac87-4463-862c-98424931a504",
+          "id": "d4577e2e-5af9-43a6-8519-8f3e14517dea",
           "day": "六",
           "date": "2026-11-14",
           "start": "10:00",
           "end": "16:00"
         },
         {
-          "id": "86de4708-500e-4aa3-ab11-d83339eac0cf",
+          "id": "77437ea8-af39-4cbc-bad4-f7f4c16f90c3",
           "day": "二",
           "date": "2026-11-17",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "3fcf1099-f685-440f-8874-71b885be850c",
+          "id": "9f3f105f-d011-4351-a3c7-94e2d4c4c27f",
           "day": "五",
           "date": "2026-11-20",
           "start": "16:00",
           "end": "20:00"
         },
         {
-          "id": "d8642bdf-0f2c-42e4-b475-8c8659c2fc1f",
+          "id": "dce59934-218b-4fcb-a969-3e85db1518e8",
           "day": "二",
           "date": "2026-11-24",
           "start": "18:00",
           "end": "21:00"
         },
         {
-          "id": "825a4895-4b17-4121-865c-5e80dde4bd6c",
+          "id": "b4150d2e-4fff-43d5-b0a7-c97ce30de757",
           "day": "四",
           "date": "2026-11-26",
           "start": "17:00",
@@ -223,7 +220,7 @@
       "priority": 5,
       "sessionType": "1on1",
       "ocrRawText": "3/11 6-9pm\n7/11 2-6pm\n10/11 6-9pm\n12/11 5-8pm\n14/11 10am-4pm\n17/11 6-9pm\n20/11 4-8pm\n24/11 6-9pm\n26/11 5-8pm",
-      "createdAt": "2026-10-14T13:36:22.861Z"
+      "createdAt": "2026-10-14T22:49:29.274Z"
     }
   ],
   "preferences": {
@@ -238,351 +235,351 @@
   },
   "schedule": [
     {
-      "id": "29e45586-a949-4bdf-ae10-1c5edcaf1dd3",
+      "id": "b79847dc-2d9c-4a8e-874a-a313e88c1ac6",
       "day": "二",
       "date": "2026-11-03",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "ccf00387-d2ef-485f-9f77-d7af3ae69330",
+      "id": "ff65ca07-2eed-46d2-93ea-1df8e22ed7c6",
       "day": "二",
       "date": "2026-11-03",
       "start": "19:00",
       "end": "20:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "1d3ae085-f7e3-44c1-8f42-6f1595906c77",
+      "id": "9f69efd7-0f62-4d69-a6a2-7dc844be8e68",
       "day": "二",
       "date": "2026-11-03",
       "start": "20:00",
       "end": "21:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "f3e1aa83-5a36-41a7-ad28-78532b59ed54",
+      "id": "ba689996-f443-454e-a638-6455166b7860",
       "day": "三",
       "date": "2026-11-04",
       "start": "15:00",
       "end": "16:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "6a543298-ac13-4e30-99a2-be61b372dafe",
+      "id": "9946b908-181c-423d-88c0-237844d7cac0",
       "day": "四",
       "date": "2026-11-05",
       "start": "15:00",
       "end": "16:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "10872641-bd98-4252-8715-66729f6ade9d",
+      "id": "5c240f27-3e7a-42a9-8f10-b846e397b430",
       "day": "五",
       "date": "2026-11-06",
       "start": "16:00",
       "end": "17:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "7abe2101-555a-43ea-b58b-bc0fa39b07e9",
+      "id": "3a5d7c90-1cdc-4c01-9b76-936bba932e49",
       "day": "五",
       "date": "2026-11-06",
       "start": "17:00",
       "end": "18:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "73cb06bd-62eb-4906-b06f-d6ecf360bd68",
+      "id": "b79c6f7e-4ece-49d5-8a2b-57e09e7c0894",
       "day": "六",
       "date": "2026-11-07",
       "start": "14:00",
       "end": "15:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "05d02657-3e84-4695-8c93-457e41fc616f",
+      "id": "d16e1c4c-47b4-4026-bafc-fd7c8f4148a4",
       "day": "二",
       "date": "2026-11-10",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "8deb7c93-6840-4c37-aa17-94e63829661c",
+      "id": "d25ad188-efcb-413b-bb64-32b617b1f290",
       "day": "二",
       "date": "2026-11-10",
       "start": "19:00",
       "end": "20:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "b23633e0-a172-4692-bba2-903396f58e41",
+      "id": "162ca330-8364-4e0c-8b03-3dc077d7501f",
       "day": "二",
       "date": "2026-11-10",
       "start": "20:00",
       "end": "21:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "58bca65f-c667-4bbf-932a-d40f9dda1d42",
+      "id": "c90aaa8c-2bae-44e6-8b21-c4a903792c0e",
       "day": "四",
       "date": "2026-11-12",
       "start": "17:00",
       "end": "18:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "febd9dbb-51f1-4066-837d-661ef5a2a581",
+      "id": "19da9739-115a-4103-96ae-6c7ce3371ddf",
       "day": "四",
       "date": "2026-11-12",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "95fd9b40-4d94-4e5a-bae8-664bab72035f",
+      "id": "3fcb2f6b-db58-4582-9430-561081ec6075",
       "day": "五",
       "date": "2026-11-13",
       "start": "15:30",
       "end": "16:30",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "7c83b457-241c-4a89-be8a-b5796ff388a9",
+      "id": "d83f6cf1-8924-4ae3-9ce2-e56045120f39",
       "day": "六",
       "date": "2026-11-14",
       "start": "10:00",
       "end": "11:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "363501de-2cd7-43aa-8f1c-6b2fa4072dc9",
+      "id": "abec0596-0be4-4c63-80bb-a2ef7a72b30a",
       "day": "二",
       "date": "2026-11-17",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "4ff9b65c-de54-40e5-b371-5f377732dff6",
+      "id": "0188bc10-e148-439b-a28e-8d869e0b38ac",
       "day": "二",
       "date": "2026-11-17",
       "start": "19:00",
       "end": "20:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "551eace8-fb08-4af0-af04-f18f46b074a7",
+      "id": "2e144cdc-8bba-4c57-b46d-fffaf14327c4",
       "day": "二",
       "date": "2026-11-17",
       "start": "20:00",
       "end": "21:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "f5bc7b8d-7f40-4ca7-99d1-98ec3a6a1a70",
+      "id": "3f7efef5-aa8e-4dae-834a-0f834c8fe05a",
       "day": "四",
       "date": "2026-11-19",
       "start": "14:00",
       "end": "15:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "e54a1454-d28d-49f1-9206-c7254baa53ae",
+      "id": "dc17bc2d-55a8-4954-a895-e867490469ed",
       "day": "五",
       "date": "2026-11-20",
       "start": "16:00",
       "end": "17:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "a7b8b813-9712-4b7a-a6b4-9f9f4bd3688b",
+      "id": "4c52c4a1-7385-4252-815b-5eadb89f9917",
       "day": "五",
       "date": "2026-11-20",
       "start": "17:00",
       "end": "18:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "094a2735-baaf-49c8-8473-02906715f59d",
+      "id": "176f7cf1-ec74-4c28-bdbd-6b6c3bb52f55",
       "day": "二",
       "date": "2026-11-24",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "548637bf-733e-42bc-8583-7567b9bc93f3",
+      "id": "8f634089-6536-47bb-8a09-76c909913b09",
       "day": "二",
       "date": "2026-11-24",
       "start": "19:00",
       "end": "20:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "3fe2a5ae-9879-44e9-9108-43e00ae09d0e",
+      "id": "b6af16bb-c97b-49c3-a0c5-b0ddcd8bb8c0",
       "day": "二",
       "date": "2026-11-24",
       "start": "20:00",
       "end": "21:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "86b1552d-0956-4c63-9508-3ce850a7137d",
+      "id": "36ab2588-e996-410f-af9e-00737ab9f2cd",
       "day": "四",
       "date": "2026-11-26",
       "start": "17:00",
       "end": "18:00",
       "studentIds": [
-        "06e5bfe2-f436-44b7-a115-b255504e86f5"
+        "baf44939-4df7-41fb-b147-3558b992e0be"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "0c7ac30f-a066-46dd-ba4a-2bd89dc26c53",
+      "id": "64dbf61c-f109-4325-b6e8-c64c1e0b0f70",
       "day": "四",
       "date": "2026-11-26",
       "start": "18:00",
       "end": "19:00",
       "studentIds": [
-        "c9053239-e27e-4da0-87a8-f825d0d91852"
+        "705dbcd9-7f04-4bb6-bd99-3314f47ff76f"
       ],
       "sessionType": "1on1",
       "confirmed": false,
       "notes": ""
     },
     {
-      "id": "62aacda2-9a0c-4f66-8777-69fc0b7efa0f",
+      "id": "c71fd961-9cfe-4713-b006-750d246b3ec9",
       "day": "四",
       "date": "2026-11-26",
       "start": "19:00",
       "end": "20:00",
       "studentIds": [
-        "5e501caa-c56a-4a9c-8f09-7b13232b61f4"
+        "bf0eaa39-5f48-47c9-aa4c-9fa9faf08df3"
       ],
       "sessionType": "1on1",
       "confirmed": false,
