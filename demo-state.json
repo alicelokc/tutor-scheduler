@@ -227,10 +227,10 @@
     }
   ],
   "preferences": {
-    "preferredStart": "09:00",
-    "preferredEnd": "21:00",
+    "preferredStart": "08:00",
+    "preferredEnd": "11:30",
     "avoidSlots": [],
-    "maxSessionsPerDay": 6,
+    "maxSessionsPerDay": 10,
     "defaultSessionMinutes": 60,
     "coachName": "Amy",
     "messageHeader": "有空請核對下列 *{month}* 約左既堂☘️\n時間全部是pm，除左特定指明是am\n(請務必確認回覆，否則下列時間將會被自動確定）",
